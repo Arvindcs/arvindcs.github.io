@@ -1,15 +1,15 @@
 ## My Personal Portfolio
 
 
-Template Name: Personal
-Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Website URL: (https://arvindcs.github.io/) 
 
 
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Arvindcs/arvindcs.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
 
 ### Support or Contact
 
